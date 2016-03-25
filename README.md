@@ -5,6 +5,8 @@ A Chrome extension for ![material design](https://www.google.com/design/spec/mat
 
 Simply click on the colour you want and the HEX value will be copied to your clipboard.
 
+![Screenshot](/assets/img/screenshot.png)
+
 ## Install
 
 Download the [latest release](https://github.com/HeliumSquid/matter/archive/master.zip).
