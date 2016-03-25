@@ -1,5 +1,5 @@
 # Matter
-A Chrome extension for ![material design](https://www.google.com/design/spec/material-design/introduction.html) colours.
+A Chrome extension for [material design](https://www.google.com/design/spec/material-design/introduction.html) colours.
 
 ![Matter](icon.png)
 
